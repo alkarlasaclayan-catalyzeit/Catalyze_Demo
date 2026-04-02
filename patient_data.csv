@@ -1,0 +1,11 @@
+patient_id,patient_name,age,gender,diagnosis,visit_date
+1,Juan Dela Cruz,34,Male,Hypertension,2026-03-20
+2,Maria Santos,28,Female,Diabetes,2026-03-21
+3,Pedro Reyes,45,Male,Asthma,2026-03-22
+4,Ana Lopez,52,Female,Hypertension,2026-03-22
+5,Carlos Garcia,39,Male,COVID-19,2026-03-23
+6,Liza Ramos,31,Female,Migraine,2026-03-24
+7,Mark Bautista,60,Male,Diabetes,2026-03-24
+8,Jenny Cruz,22,Female,Flu,2026-03-25
+9,Paul Aquino,47,Male,Hypertension,2026-03-25
+10,Rose Villanueva,36,Female,Asthma,2026-03-26
