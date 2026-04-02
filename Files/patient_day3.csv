@@ -1,0 +1,5 @@
+patient_id,patient_name,age,gender,diagnosis,visit_date
+1,Juan Dela Cruz,35,Male,Hypertension,2026-04-03
+3,Pedro Reyes,46,Male,Asthma,2026-04-03
+4,Ana Lopez,50,Female,Flu,2026-04-03
+4,Ana Lopez,50,Female,Flu,2026-04-03
